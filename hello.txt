@@ -6,9 +6,9 @@ hello,git!!!   12345678888888ijn
 hello,git!!!   12345678888888ijn
 hello,git!!!   12345678888888ijn
 hello,git!!!   12345678888888ijn
-hello,git!!!   12345678888888ijn
-hello,git!!!   12345678888888ijn
-hello,git!!!   12345678888888ijn
+hello,git!!!   
+hello,git!!!  
+hello,git!!!   
 hello,git!!!
 hello,git!!!
 hello,git!!!   i don't know what i an thinking:
@@ -16,7 +16,7 @@ hello,git!!!
 hello,git!!!
 hello,git!!!
 hello,git!!!
-hello,git!!!
+hello,git!!!   if i say i miss you
 hello,git!!!
 hello,git!!!
 hello,git!!!
